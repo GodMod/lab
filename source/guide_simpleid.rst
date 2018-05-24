@@ -42,7 +42,7 @@ Installation
 .. note:: The link to the lastest version can be found at SimpleID's `release page <https://simpleID.koinic.net/releases/all>`_.
 
 .. code-block:: console
- :emphasize-lines: 1,2,8
+  :emphasize-lines: 1,2,8
 
  [isabell@stardust ~]$ curl --location --output simpleid.tar.gz https://downloads.sourceforge.net/simpleid/simpleid-42.23.1.tar.gz
  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
