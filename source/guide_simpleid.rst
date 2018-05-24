@@ -3,11 +3,11 @@
 
 .. sidebar:: Logo
   
-  .. image:: _static/images/nextcloud.png 
+  .. image:: _static/images/simpleid.png 
       :align: center
 
 #########
-Nextcloud
+SimpleID
 #########
 
 SimpleID_ is a simple, personal OpenID_ provider written in PHP.
