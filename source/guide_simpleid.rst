@@ -612,4 +612,4 @@ For Upgrades see the specific `upgrading page <http://simpleid.koinic.net/docs/1
 
 ----
 
-Tested with Nextcloud 13.0.1, Uberspace 7.1.3
+Currently untested
