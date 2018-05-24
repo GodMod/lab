@@ -1,4 +1,3 @@
-.. highlight:: console
 .. author:: J | 927589452.de
 
 .. sidebar:: Logo
@@ -54,6 +53,7 @@ Installation
  [isabell@stardust ~]$ tar --extract --file simpleid.tar.gz 
  [isabell@stardust ~]$ 
 
+
 Housekeeping
 ============
 
@@ -64,6 +64,7 @@ Housekeeping
 
  [isabell@stardust ~]$ rm simpleid.tar.gz
  [isabell@stardust ~]$ 
+
 
 Moving the Folders
 ==================
