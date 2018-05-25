@@ -439,7 +439,7 @@ Now we can edit it
  ;    9bce4e6997c6f2590717686bd62f99e33d5c6e1c:sha1:ideally-a-large-number-of-random-characters-to-use-as-salt       ; SHA1 hash with salt
  ;    c6e1aa5914c6e4e55fae69093afbc02e180810dcc7d3da9f863aa54f3d76e2c3:pbkdf2:sha256:100000:ideally-a-large-number-of-random-characters-to-use-as-salt ; PBKDF2
  ;
- pass="a66a211c97aaba48027355c8c22d8f63019db458:sha1:fricking long salt"
+ pass='a66a211c97aaba48027355c8c22d8f63019db458:sha1:fricking long salt'
  ;
  ; Whether this user is given administrative privileges in SimpleID.
  ;
